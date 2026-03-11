@@ -1,11 +1,13 @@
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@58.152.18.189:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.18.189-0208
-trojan://f389ed926e512e15f382dc3804029474@160.16.72.205:3057?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.72.205-0796
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click#%F0%9F%87%AE%F0%9F%87%B8IS-37.235.49.209-0226
-trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:3057?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.106.99-0797
-trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:4937?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.106.99-0792
-trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:4674?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.106.99-0794
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#%F0%9F%87%B3%F0%9F%87%B4NO-80.173.231.254-0537
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls#%F0%9F%87%B1%F0%9F%87%B9LT-195.66.25.251-0215
+trojan://f389ed926e512e15f382dc3804029474@160.16.72.205:3057?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.72.205-0796
+trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:4674?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.106.99-0794
+trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:4937?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.106.99-0792
+trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:3057?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.106.99-0797
+trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:34818?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.106.99-0791
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.70.180:4019?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.70.180-0220
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click#%F0%9F%87%AE%F0%9F%87%B8IS-37.235.49.209-0226
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.130.21:4019?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.130.21-0258
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@58.152.18.2:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.18.2-0344
 trojan://dd04c158-1bac-47cd-99c1-5c4f64796dd5@supersouth.xn--mesv7f5toqlp.club:12004?security=tls#%F0%9F%8F%81RELAY-104.21.76.158-0376
@@ -13,7 +15,6 @@ trojan://13d29042-ab82-4195-9cd4-2bafc518e201@23.227.38.72:443?security=tls&sni=
 trojan://BxceQaOe@36.156.102.115:26876?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.156.102.115-0486
 trojan://e2afc128-ca51-39b6-897c-eb2649825df9@yn-zf.jiashumao.net:40375?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.114-0495
 trojan://e2afc128-ca51-39b6-897c-eb2649825df9@twb-zf.jiashumao.net:25888?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.114-0496
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#%F0%9F%87%B3%F0%9F%87%B4NO-80.173.231.254-0537
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&sni=web.max#%F0%9F%87%AE%F0%9F%87%B8IS-167.17.185.228-0538
 trojan://8d2d5953-d649-4034-94f2-72f2df2623da@168.138.44.176:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-168.138.44.176-0540
 trojan://9c822f05-cfdc-479a-9534-60f3d4127435@138.2.113.248:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-138.2.113.248-0541
@@ -31,7 +32,6 @@ trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&sni=web
 trojan://BxceQaOe@16.163.107.16:5823?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-16.163.107.16-0788
 trojan://BxceQaOe@54.168.85.73:5823?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-54.168.85.73-0789
 trojan://BxceQaOe@13.230.222.150:21508?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-13.230.222.150-0790
-trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:34818?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.106.99-0791
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.106.99:3419?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.106.99-0793
 trojan://BxceQaOe@54.168.85.73:25343?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-54.168.85.73-0795
 trojan://BxceQaOe@16.163.149.149:4864?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-16.163.149.149-0798
